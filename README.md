@@ -10,7 +10,7 @@ This is the source for the IceBerg Company
 * [CSS3](http://ali.md/css3ref)
 * [1Styles](http://ali.md/1styles)
 * [JavaScript](http://ali.md/wiki/javascript)
-* [Zepto.js](http://ali.md/zepto.js)
 * [jQueryMob.js](http://ali.md/jquerymob.js)
+* [Cordova](http://ali.md/cordova)
 
 #### Produced by Mampel - Web Department  
